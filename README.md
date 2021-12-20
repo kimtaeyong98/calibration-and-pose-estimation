@@ -29,4 +29,8 @@
 
 # pose-estimation
 
+<calibration결과를 이용한, Aruco marker 기반 pose estimation>
+
 ![image](https://user-images.githubusercontent.com/63800086/146790412-89e56591-e02f-45d4-a8f2-cd20a8652433.png)
+
+(X축 – 빨간색, Y축 – 녹색, Z축 – 파란색)
